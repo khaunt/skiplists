@@ -1,0 +1,9 @@
+# skiplists
+SIMPLE IMPLEMENTATION OF MY SKIP LIST EXERCISE IN STROUSTRUP PPP, CHAPTER 18 EX. 2 (2nd EDITION)
+
+IMPLEMENTED FUNCIONS
+  -ADD ELEMENT (IN ORDER)
+  -FIND ELEMENT
+  -DELETE ELEMENT
+
+skiplistmain.cpp showcases an example of how to use the program.
