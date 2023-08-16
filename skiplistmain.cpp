@@ -2,7 +2,7 @@
 #include "skiplists.h"
 #include <chrono>
 #include <ctime>
-#include<Windows.h>
+// #include <Windows.h> commented this out since it threw an error
 #include <stdio.h>
 
 int main()
