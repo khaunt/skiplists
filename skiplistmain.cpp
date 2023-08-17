@@ -20,6 +20,11 @@ int main()
 		list->add(temp);
 		list->print_all();
 	}
+	cout << "---- SEARCH PHASE ----\n";
+	while (cin >> temp && temp != 0) {
+		list->find(temp);
+		list->print_all();
+	}
 	cout << "---- DELETION PHASE ----\n";
 	while (cin >> temp && temp != 0) {
 		list->remove(temp);
